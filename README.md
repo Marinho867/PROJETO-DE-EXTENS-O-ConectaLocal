@@ -1,6 +1,6 @@
 # TÍTULO DO PROJETO DE EXTENSÃO: ConectaLocal - Plataforma Digital para Fortalecimento da Economia Comunitária
 
-**Nome do(s) discente(s) integrantes do grupo:** [Wellington Marinho da Silva]
+**Nome do(s) discente(s) integrantes do grupo:** Wellington Marinho da Silva
 
 
 
@@ -8,8 +8,8 @@
 
 
 
-**Ano:** [2025]
-**Cidade/estado:** [Vila Velha]
+**Ano:** 2025
+**Cidade/estado:** Vila Velha
 
 ---
 
